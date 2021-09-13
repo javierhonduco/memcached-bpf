@@ -1,1 +1,1 @@
-
+memcached caching implemented in BPF. Unfortunately I never got this to work and got busy with other stuff, but @YoannGh implemented something similar, but better in https://github.com/Orange-OpenSource/bmc-cache 
